@@ -1,2 +1,2 @@
 # Craw
-Simple scrapping web using htmldom
+Smpl scrpng wb usng htmldm
